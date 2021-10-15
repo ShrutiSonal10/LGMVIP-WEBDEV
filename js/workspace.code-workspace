@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\react framework\\todos-list"
+		},
+		{
+			"path": "D:\\c c++"
+		},
+		{
+			"path": "D:\\html"
+		},
+		{
+			"path": "..\\lgmwebpage"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\LetsLearnGit"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lgmwebpage"
+	}
+}
